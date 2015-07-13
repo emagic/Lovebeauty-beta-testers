@@ -1,15 +1,13 @@
 # Site settings
-title: Your awesome title
-tagline: And Tagline
-email: gayanvirajith@gmail.com
+title: Lovebeauty for beauty lovers
+tagline: Beta Tester Sign Up Page
+email: jinpeiios@gmail.com
 description: > # this means to ignore newlines until "baseurl:"
-  Hi, I’m a professional UI/UX designrer and web developer. 
-  I love being minimal and creative.
-baseurl: "/gaya" # the subpath of your site, e.g. /blog/
-url: "http://gayan.me" # the base hostname & protocol for your site
-logourl: /assets/images/logo.png # Site logo
-author: "Tom Warlker"
-author_thumbnail: "/assets/images/avatar.jpg" # Author avatar
+  This is the sign up page for Lovebeatuy app beta users and testers.
+baseurl: "/Lovebeauty-beta-testers" # the subpath of your site, e.g. /blog/
+logourl: "http://i.imgur.com/dFuP4yp.png" # Site logo
+author: "Jinpei Li"
+author_thumbnail: "https://avatars2.githubusercontent.com/u/313377?v=3&s=140" # Author avatar
 # Theme customization - please change from the defaults!
 theme:
   # Color for sidebar bar, links, etc
@@ -27,7 +25,7 @@ theme:
   show_share_buttons: true
 
   # Show author picure, name and social links on post footer
-  show_author_info: true
+  show_author_info: false
 
   # Disqus comments manager - shortname
   # disqus_shortname: gaya-webcreate
