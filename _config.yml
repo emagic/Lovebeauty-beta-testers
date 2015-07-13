@@ -5,9 +5,9 @@ email: jinpeiios@gmail.com
 description: > # this means to ignore newlines until "baseurl:"
   This is the sign up page for Lovebeatuy app beta users and testers.
 baseurl: "/Lovebeauty-beta-testers" # the subpath of your site, e.g. /blog/
-logourl: http://i.imgur.com/dFuP4yp.png # Site logo
+logourl: "http://i.imgur.com/dFuP4yp.png" # Site logo
 author: "Jinpei Li"
-author_thumbnail: https://avatars2.githubusercontent.com/u/313377?v=3&s=140 # Author avatar
+author_thumbnail: "https://avatars2.githubusercontent.com/u/313377?v=3&s=140" # Author avatar
 # Theme customization - please change from the defaults!
 theme:
   # Color for sidebar bar, links, etc
@@ -22,7 +22,7 @@ theme:
     pinterest: gayanvirajith
 
   # Enable share buttons on post footer
-  show_share_buttons: true
+  show_share_buttons: false
 
   # Show author picure, name and social links on post footer
   show_author_info: false
